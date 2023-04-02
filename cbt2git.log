@@ -1,0 +1,20 @@
+2023-04-03 01:32:24.598144 - Initialized conversion of CBT629
+2023-04-03 01:32:24.751129 - Received CBT.V504.FILE629.PDS from FILE629.XMI 
+2023-04-03 01:32:24.754095 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:32:24.755256 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/$$$DOC
+2023-04-03 01:32:24.756372 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:32:24.757533 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/$$NOTE2
+2023-04-03 01:32:24.758826 - Found @FILE629.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/@FILE629
+2023-04-03 01:32:24.759979 - Found ASM.jcl (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/ASM
+2023-04-03 01:32:24.761094 - Found C2X.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/C2X
+2023-04-03 01:32:24.762129 - Found DEBUG.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/DEBUG
+2023-04-03 01:32:24.763182 - Found EYECATCH.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/EYECATCH
+2023-04-03 01:32:24.764367 - Found GETCMD.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/GETCMD
+2023-04-03 01:32:24.765424 - Found GPL.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/GPL
+2023-04-03 01:32:24.766735 - Found LOG.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/LOG
+2023-04-03 01:32:24.767805 - Found RFC2030.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/RFC2030
+2023-04-03 01:32:24.768919 - Found RUNJOB.jcl (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/RUNJOB
+2023-04-03 01:32:24.769937 - Found RUNPROC.jcl (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/RUNPROC
+2023-04-03 01:32:24.770976 - Found SAY.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/SAY
+2023-04-03 01:32:24.772075 - Found SNTPD.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/SNTPD
+2023-04-03 01:32:24.773039 - Found TCPSNTP.txt (text/plain) in CBT.V504.FILE629.PDS, moved to PDS/TCPSNTP
